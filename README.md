@@ -7,7 +7,7 @@ Software for transformer inrush current calculation.
 
 ### 📦 Download
 
-➡️ [Download Installer (v1.0.0.0)](https://github.com/FedePorti/TIC-Installer/releases/download/v1.0.0.0/TIC Setup.zip)
+➡️ [Download Installer (v1.0.0.0)](https://github.com/FedePorti/TIC-Installer/releases/download/v1.0.0.0/TIC.Setup.zip).
 
 ### 🛠️ Requirements
 - Windows 10 or 11 (x64)
