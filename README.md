@@ -5,15 +5,22 @@ Installer for TIC: Transformer Inrush Current
 
 Software for transformer inrush current calculation.
 
+### 📦 Download
+
+➡️ [Download Installer (v1.0.0)](https://github.com/FedePorti/TIC-Installer/releases/download/v1.0.0/TIC_Installer_v1.0.0.zip)
+
 ### 🛠️ Requirements
 - Windows 10 or 11 (x64)
 - .NET 9 or newer
 
 ### ℹ️ About
 Developed by **Federico Portillo**  
-[Linkedin](www.linkedin.com/in/fedeporti)
+[TIC Software](https://github.com/FedePorti)
 
 ### 📄 License Agreement
+By downloading or installing this software, you agree to the  
+[End User License Agreement (EULA)](https://github.com/FedePorti/TIC-Installer/releases/download/v1.0.0/TIC_EULA.rtf).
+
 **Main points:**
 - ✅ Free for personal and educational use  
 - 🚫 Commercial use prohibited without prior written authorization  
