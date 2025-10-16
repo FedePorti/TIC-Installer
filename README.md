@@ -30,6 +30,7 @@ By downloading or installing this software, you agree to the
   
 EULA – Transformer Inrush Current (TIC)
 (English / Español / Português)
+
 ENGLISH VERSION
 End User License Agreement (EULA)
 for TIC: Transformer Inrush Current
