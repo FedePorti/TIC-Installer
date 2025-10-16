@@ -28,10 +28,11 @@ By downloading or installing this software, you agree to the
 - ⚠️ Software provided “as is”, without any warranty  
 - 💾 Use at your own risk
   
-EULA – Transformer Inrush Current (TIC)
+### EULA – Transformer Inrush Current (TIC)
 (English / Español / Português)
 
-ENGLISH VERSION
+**ENGLISH VERSION**
+
 End User License Agreement (EULA)
 for TIC: Transformer Inrush Current
 1. License Grant
@@ -52,7 +53,8 @@ The Author reserves the right to update, modify, or discontinue the Software at 
 7. Jurisdiction
 This agreement shall be governed by and construed in accordance with the laws of the country of origin of the Author.
 
-VERSIÓN EN ESPAÑOL
+**VERSIÓN EN ESPAÑOL**
+
 Acuerdo de Licencia de Usuario Final (EULA)
 para TIC: Transformer Inrush Current
 1. Concesión de Licencia
@@ -73,7 +75,8 @@ El Autor se reserva el derecho de actualizar, modificar o discontinuar el Softwa
 7. Jurisdicción
 Este acuerdo se regirá e interpretará de acuerdo con las leyes del país de origen del Autor.
 
-VERSÃO EM PORTUGUÊS
+**VERSÃO EM PORTUGUÊS**
+
 Contrato de Licença de Usuário Final (EULA)
 para TIC: Transformer Inrush Current
 1. Concessão de Licença
