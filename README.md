@@ -50,6 +50,7 @@ In no event shall the Author be liable for any damages arising out of the use or
 The Author reserves the right to update, modify, or discontinue the Software at any time without prior notice.
 7. Jurisdiction
 This agreement shall be governed by and construed in accordance with the laws of the country of origin of the Author.
+
 VERSIÓN EN ESPAÑOL
 Acuerdo de Licencia de Usuario Final (EULA)
 para TIC: Transformer Inrush Current
@@ -70,6 +71,7 @@ En ningún caso el Autor será responsable por daños derivados del uso o imposi
 El Autor se reserva el derecho de actualizar, modificar o discontinuar el Software en cualquier momento sin previo aviso.
 7. Jurisdicción
 Este acuerdo se regirá e interpretará de acuerdo con las leyes del país de origen del Autor.
+
 VERSÃO EM PORTUGUÊS
 Contrato de Licença de Usuário Final (EULA)
 para TIC: Transformer Inrush Current
