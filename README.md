@@ -7,11 +7,24 @@ Software for transformer inrush current calculation.
 
 ### 📦 Download
 
-➡️ [Download Installer (v1.0.0.0)](https://github.com/FedePorti/TIC-Installer/releases/download/v1.0.0.0/TIC.Setup.zip).
+➡️ [Download Installer (v1.1.0.0)](https://github.com/FedePorti/TIC-Installer/releases/download/v1.1.0.0/TIC.Setup.1.1.0.0.exe)
+
+Run **TIC Setup 1.1.0.0.exe** and follow the wizard (English, Spanish or Portuguese). It installs over a previous version; if TIC 1.0 is installed, the installer removes it first. Your files in C:\TIC are kept.
 
 ### 🛠️ Requirements
-- Windows 10 or 11 (x64)
-- .NET 9 or newer
+- Windows 10 or 11 (64-bit)
+- Nothing else: .NET is included in the installer
+
+### 📖 User manual
+The user manual (English, Spanish and Portuguese) is installed with TIC and opens from **Help > User Manual**.
+
+### 🆕 What's new in 1.1.0.0
+- New installer: a single setup file, with .NET included and the wizard in three languages.
+- User manual in English, Spanish and Portuguese.
+- Sharper dialogs on high-resolution screens (per-monitor DPI).
+- Changing the language now also updates the lists, the buttons and the charts.
+- The calculation no longer fails when the core does not saturate.
+- Fixes in the Excel report and when saving files.
 
 ### ℹ️ About
 Developed by **Federico Portillo**  
@@ -19,7 +32,7 @@ Developed by **Federico Portillo**
 
 ### 📄 License Agreement
 By downloading or installing this software, you agree to the  
-[End User License Agreement (EULA)](https://github.com/FedePorti/TIC-Installer/releases/download/v1.0.0.0/TIC_EULA.rtf).
+[End User License Agreement (EULA)](https://github.com/FedePorti/TIC-Installer/releases/download/v1.1.0.0/TIC_EULA.rtf).
 
 **Main points:**
 - ✅ Free for personal and educational use  
