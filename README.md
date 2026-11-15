@@ -11,6 +11,8 @@ Software for transformer inrush current calculation.
 
 Run **TIC Setup 1.1.0.0.exe** and follow the wizard (English, Spanish or Portuguese). It installs over a previous version; if TIC 1.0 is installed, the installer removes it first. Your files in C:\TIC are kept.
 
+⚠️ The installer is not digitally signed. When you download it, your browser may warn that the file is not commonly downloaded: choose **Keep**. When you run it, Windows may show **"Windows protected your PC"**: click **More info** and then **Run anyway**.
+
 ### 🛠️ Requirements
 - Windows 10 or 11 (64-bit)
 - Nothing else: .NET is included in the installer
