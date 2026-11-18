@@ -7,9 +7,9 @@ Software for transformer and shunt reactor inrush current calculation.
 
 ### 📦 Download
 
-➡️ [Download Installer (v1.2.0.0)](https://github.com/FedePorti/TIC-Installer/releases/download/v1.2.0.0/TIC.Setup.1.2.0.0.exe)
+➡️ [Download Installer (v1.2.1.0)](https://github.com/FedePorti/TIC-Installer/releases/download/v1.2.1.0/TIC.Setup.1.2.1.0.exe)
 
-Run **TIC Setup 1.2.0.0.exe** and follow the wizard (English, Spanish or Portuguese). It installs over a previous version; if TIC 1.0 is installed, the installer removes it first. Your files in C:\TIC are kept.
+Run **TIC Setup 1.2.1.0.exe** and follow the wizard (English, Spanish or Portuguese). It installs over a previous version; if TIC 1.0 is installed, the installer removes it first. Your files in C:\TIC are kept.
 
 ⚠️ The installer is not digitally signed. When you download it, your browser may warn that the file is not commonly downloaded: choose **Keep**. When you run it, Windows may show **"Windows protected your PC"**: click **More info** and then **Run anyway**.
 
@@ -20,7 +20,11 @@ Run **TIC Setup 1.2.0.0.exe** and follow the wizard (English, Spanish or Portugu
 ### 📖 User manual
 The user manual (English, Spanish and Portuguese) is installed with TIC and opens from **Help > User Manual**.
 
-### 🆕 What's new in 1.2.0.0
+### 🆕 What's new in 1.2.1.0
+- Reactors: the core section is no longer shown or required, because the reactor calculation does not use it.
+- User manual updated.
+
+### What's new in 1.2.0.0
 - Shunt reactors: new **Reactor** option, with its own model (the magnetizing current is not neglected and there is no remanence).
 - Reactors are calculated at the rated and at the maximum operating voltage (Vmax), side by side, with their charts and an extra sheet in the Excel report.
 - The rated inductance is shown, calculated from the power and the voltage, with Xair (Lair / Lnom) in its tip.
@@ -35,7 +39,7 @@ Developed by **Federico Portillo**
 
 ### 📄 License Agreement
 By downloading or installing this software, you agree to the  
-[End User License Agreement (EULA)](https://github.com/FedePorti/TIC-Installer/releases/download/v1.2.0.0/TIC_EULA.rtf).
+[End User License Agreement (EULA)](https://github.com/FedePorti/TIC-Installer/releases/download/v1.2.1.0/TIC_EULA.rtf).
 
 **Main points:**
 - ✅ Free for personal and educational use  
